@@ -1,0 +1,5 @@
+#!/bin/bash
+set -e
+cd /home/kavia/workspace/code-generation/modern-tic-tac-toe-175251-175260/tic_tac_toe_frontend
+npm run lint
+
